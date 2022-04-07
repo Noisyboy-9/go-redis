@@ -1,5 +1,7 @@
 # Balad Technical interview: go-redis
-During my interviews with Balad, i was tasked to implement a simple redis like in memory caching system using golang.
+During my interviews with [Balad](https://balad.ir/), i was tasked to implement a simple redis like in memory 
+caching system using 
+golang.
 
 ## Design
 I have tried to make the design as minimalistic and easy to understand possible which makes the code more maintainable.
